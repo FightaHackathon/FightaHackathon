@@ -44,6 +44,6 @@ I love combining art and technology! My nickname "Arti" reflects my passion for 
 
 ---
 
-![Arti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Arti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FightaHackathon&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ---
