@@ -29,21 +29,3 @@
 
 ---
 
-### 🔥 Projects
-
-Here are some of the projects I've worked on and currently working on:
-
-1. **Image analyzer with fourier transformation**
-Built on streamlit and python with fft and ift for image analysis and model training
-
-**More coming soon**
---
-### ⚡ Fun Fact
-
-I love combining art and technology! My nickname "Arti" reflects my passion for creativity and innovation.
-
----
-
-![Arti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FightaHackathon&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-
----
