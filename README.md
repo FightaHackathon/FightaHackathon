@@ -76,7 +76,7 @@
 
 ## 🌱 Right now
 
-- Building **LannPya AI** for the AI Ocean Myanmar UI/UX competition.
+- Building **LannPya AI** for an AI UI/UX competition.
 - Going deeper on computer vision, text embeddings and data visualization.
 - Always up for a hackathon. The username is not a joke.
 
